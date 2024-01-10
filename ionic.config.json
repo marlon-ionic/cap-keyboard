@@ -1,0 +1,7 @@
+{
+  "name": "cap-keyboard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
